@@ -46,7 +46,7 @@ This project utilizes:
 Prerequisites
 
 Ensure Python is installed:
-
+'''bash
 python --version
 
 
@@ -85,18 +85,18 @@ python src/sentiment_analysis.py
 Provide a dataset of tweets, and the model will classify sentiment.
 
 📊 Results
-The model’s performance was evaluated using:
-✔ Accuracy
-✔ Precision
-✔ Recall
-✔ F1-score
 
-Achieved XX% accuracy, with BERT outperforming traditional ML models.
+The model’s performance was evaluated using:
+✔ Accuracy:75%
+✔ Precision:74%
+✔ Recall:85%
+✔ F1-Score: 81%
+
 
 🛤 Roadmap
- Improve dataset coverage
+ Improved dataset coverage
 
- Fine-tune BERT for better accuracy
+ Fine-tune stacked model for better accuracy
 
  Deploy as a web API
 
@@ -118,10 +118,16 @@ Push to the branch (git push origin feature/new-feature)
 Open a Pull Request
 
 📜 License
+
 Distributed under the MIT License. See LICENSE for details.
 
-📞 Contact
-📧 Email: your-email@example.com
-🔗 LinkedIn: Your Profile
+📞 Contributors
+
+📧 Email: michael.gatero@student.moringaschool.com
+📧 Email: Abdirahaman.sheikh@student.moringaschool.com
+📧 Email: betsy.gitije@student.moringaschool.com
+📧 Email: kelvinnyawira2017@gmail.com
+📧 Email: petina.leni@student.moringaschool.com
+
 
 
