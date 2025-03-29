@@ -41,9 +41,10 @@ This project utilizes:
 
 * Frameworks & Libraries: Scikit-learn, TensorFlow, Transformers
 
-### ⚡ Getting Started
 
-Prerequisites
+## ⚡ Getting Started
+
+### Prerequisites
 
 Ensure Python is installed:
 
@@ -51,13 +52,12 @@ Ensure Python is installed:
 python --version
 
 
-Install required dependencies:
 
-bash
-Copy
-Edit
+### Install required dependencies:
+
 pip install -r requirements.txt
-Installation
+
+### Installation
 Clone the repository:
 
 bash
