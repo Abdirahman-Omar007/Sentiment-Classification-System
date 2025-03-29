@@ -60,8 +60,11 @@ pip install -r requirements.txt
 
 Installation
 
+
+Clone the repository:
+
 ```bash
-Clone the repository: git clone https://github.com/yourusername/Apple-Sentiment-Analysis.git
+ git clone https://github.com/yourusername/Apple-Sentiment-Analysis.git
  ```
 Navigate to the project directory:
 
