@@ -149,19 +149,30 @@ Contributions are welcome!
 
 ### Contributors
 
-<a href="https://github.com/BetsyGitije">
-    <img src="https://github.com/BetsyGitije.png" width="40" height="40">
-</a>
+## Contributors  
 
-
-<a href="https://github.com/WanjohiK">
-    <img src="https://github.com/WanjohiK.png" width="40" height="40">
-</a>
-
-
-<a href="https://github.com/Mike101lab">
-    <img src="https://github.com/Mike101lab.png" width="40" height="40">
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/WanjohiK">
+        <img src="https://github.com/WanjohiK.png" width="50;" alt="WanjohiK"/>
+        <br /><sub><b>WanjohiK</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/BetsyGitije">
+        <img src="https://github.com/BetsyGitije.png" width="50;" alt="BetsyGitije"/>
+        <br /><sub><b>BetsyGitije</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Mike101lab">
+        <img src="https://github.com/Mike101lab.png" width="50;" alt="Mike101lab"/>
+        <br /><sub><b>Mike101lab</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
