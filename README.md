@@ -128,6 +128,9 @@ Contributions are welcome!
 
 ### Contributors
 
+
+[![WanjohiK](https://github.com/BetsyGitije.png?size=10)](https://github.com/BetsyGitije)
+
 📧 Email: michael.gatero@student.moringaschool.com
 
 📧 Email: Abdirahaman.sheikh@student.moringaschool.com
