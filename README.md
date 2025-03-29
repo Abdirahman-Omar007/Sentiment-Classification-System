@@ -19,9 +19,6 @@
 
 * Contributing
 
-* License
-
-* Contact
 
 ### 📖 About The Project
 
