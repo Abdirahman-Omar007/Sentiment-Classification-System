@@ -48,8 +48,9 @@ This project utilizes:
 
 Ensure Python is installed:
 
-bash
+```bash 
 python --version
+```bash
 
 
 
