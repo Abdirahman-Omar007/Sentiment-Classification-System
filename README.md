@@ -123,13 +123,23 @@ Contributions are welcome!
 
 * Open a Pull Request
 
-[![WanjohiK](https://github.com/BetsyGitije.png?size=100)](https://github.com/BetsyGitije)
-
 
 ### Contributors
 
 <a href="https://github.com/BetsyGitije">
     <img src="https://github.com/BetsyGitije.png" width="40" height="40">
+</a>
+
+
+<a href="https://github.com/WanjohiK">
+    <img src="https://github.com/WanjohiK.png" width="40" height="40">
+</a>
+
+
+<a href="https://github.com/
+Mike101lab">
+    <img src="https://github.com/
+Mike101lab.png" width="40" height="40">
 </a>
 
 
