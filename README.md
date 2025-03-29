@@ -53,16 +53,18 @@ python --version
 
 
 
-### Install required dependencies:
+Install required dependencies:
 
+```bash
 pip install -r requirements.txt
 
-### Installation
+```bash
+
+Installation
+
+```bash
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/yourusername/Apple-Sentiment-Analysis.git
 Navigate to the project directory:
 
