@@ -87,9 +87,13 @@ Provide a dataset of tweets, and the model will classify sentiment.
 ### Results
 
 The model’s performance was evaluated using:
+
 ✔ Accuracy:75%
+
 ✔ Precision:74%
+
 ✔ Recall:85%
+
 ✔ F1-Score: 81%
 
 
