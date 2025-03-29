@@ -47,10 +47,8 @@ Prerequisites
 
 Ensure Python is installed:
 
-bash
-Copy
-Edit
 python --version
+
 
 Install required dependencies:
 
