@@ -50,7 +50,7 @@ Ensure Python is installed:
 
 ```bash 
 python --version
-```bash
+ ```
 
 
 
@@ -58,15 +58,14 @@ Install required dependencies:
 
 ```bash
 pip install -r requirements.txt
+ ```
 
-```bash
 
 Installation
 
 ```bash
-Clone the repository:
-
-git clone https://github.com/yourusername/Apple-Sentiment-Analysis.git
+Clone the repository: git clone https://github.com/yourusername/Apple-Sentiment-Analysis.git
+ ```
 Navigate to the project directory:
 
 bash
