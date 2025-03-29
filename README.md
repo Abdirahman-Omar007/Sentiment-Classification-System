@@ -47,7 +47,7 @@ Prerequisites
 
 Ensure Python is installed:
 
-'''bash
+ ``````bash
 python --version 
 
 
