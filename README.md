@@ -27,7 +27,7 @@
 
 Apple Sentiment Analysis leverages Natural Language Processing (NLP) and Machine Learning to analyze Apple-related tweets and classify them as positive, negative, or neutral. This provides insights into public perception, aiding investors, businesses, and Apple enthusiasts in decision-making.
 
-🛠 Built With
+### Built With
 
 This project utilizes:
 
@@ -42,9 +42,9 @@ This project utilizes:
 * Frameworks & Libraries: Scikit-learn, TensorFlow, Transformers
 
 
-## ⚡ Getting Started
+### ⚡ Getting Started
 
-### Prerequisites
+#### Prerequisites
 
 Ensure Python is installed:
 
@@ -52,14 +52,11 @@ Ensure Python is installed:
 python --version
  ```
 
-
-
 Install required dependencies:
 
 ```bash
 pip install -r requirements.txt
  ```
-
 
 Installation
 
@@ -68,26 +65,26 @@ Clone the repository: git clone https://github.com/yourusername/Apple-Sentiment-
  ```
 Navigate to the project directory:
 
-bash
-Copy
-Edit
+```bash
 cd Apple-Sentiment-Analysis
+```
+
 Run the notebook or script:
 
-bash
-Copy
-Edit
+```bash
 jupyter notebook
-🚀 Usage
+```
+
+### Usage
 Run the sentiment analysis script:
 
-bash
-Copy
-Edit
+```bash
 python src/sentiment_analysis.py
+```
+
 Provide a dataset of tweets, and the model will classify sentiment.
 
-📊 Results
+### Results
 
 The model’s performance was evaluated using:
 ✔ Accuracy:75%
@@ -96,7 +93,8 @@ The model’s performance was evaluated using:
 ✔ F1-Score: 81%
 
 
-🛤 Roadmap
+ ### Roadmap
+
  Improved dataset coverage
 
  Fine-tune stacked model for better accuracy
@@ -107,7 +105,8 @@ The model’s performance was evaluated using:
 
 See the open issues for upcoming features.
 
-🤝 Contributing
+### Contributing
+
 Contributions are welcome!
 
 Fork the repository
@@ -120,11 +119,8 @@ Push to the branch (git push origin feature/new-feature)
 
 Open a Pull Request
 
-📜 License
 
-Distributed under the MIT License. See LICENSE for details.
-
-📞 Contributors
+### Contributors
 
 📧 Email: michael.gatero@student.moringaschool.com
 📧 Email: Abdirahaman.sheikh@student.moringaschool.com
