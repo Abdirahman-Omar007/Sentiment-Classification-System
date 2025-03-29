@@ -127,9 +127,13 @@ Contributions are welcome!
 ### Contributors
 
 📧 Email: michael.gatero@student.moringaschool.com
+
 📧 Email: Abdirahaman.sheikh@student.moringaschool.com
+
 📧 Email: betsy.gitije@student.moringaschool.com
+
 📧 Email: kelvinnyawira2017@gmail.com
+
 📧 Email: petina.leni@student.moringaschool.com
 
 
