@@ -150,10 +150,10 @@ Contributions are welcome!
 </table>
 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/WanjohiK/Apple-Sentiment-Analysis?style=social)
-![GitHub forks](https://img.shields.io/github/forks/WanjohiK/Apple-Sentiment-Analysis?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/WanjohiK/Apple-Sentiment-Analysis)
-![GitHub last commit](https://img.shields.io/github/last-commit/WanjohiK/Apple-Sentiment-Analysis)
+![GitHub Repo stars](https://img.shields.io/github/stars/WanjohiK/Sentiment-Classification-System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/WanjohiK/Sentiment-Classification-System?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/WanjohiK/Sentiment-Classification-System)
+![GitHub last commit](https://img.shields.io/github/last-commit/WanjohiK/Sentiment-Classification-System)
 
 
 
