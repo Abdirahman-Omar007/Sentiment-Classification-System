@@ -102,29 +102,29 @@ The model’s performance was evaluated using:
 
  ### Roadmap
 
- Improved dataset coverage
+ * Improved dataset coverage
 
- Fine-tune stacked model for better accuracy
+ * Fine-tune stacked model for better accuracy
 
- Deploy as a web API
+ * Deploy as a web API
 
- Explore multi-language sentiment analysis
+ * Explore multi-language sentiment analysis
 
-See the open issues for upcoming features.
+* See the open issues for upcoming features.
 
 ### Contributing
 
 Contributions are welcome!
 
-Fork the repository
+* Fork the repository
 
-Create a new branch (feature/new-feature)
+* Create a new branch (feature/new-feature)
 
-Commit changes (git commit -m 'Add new feature')
+* Commit changes (git commit -m 'Add new feature')
 
-Push to the branch (git push origin feature/new-feature)
+* Push to the branch (git push origin feature/new-feature)
 
-Open a Pull Request
+* Open a Pull Request
 
 
 ### Contributors
