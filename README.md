@@ -155,7 +155,7 @@ Contributions are welcome!
 ![GitHub contributors](https://img.shields.io/github/contributors/BetsyGitije/Sentiment-Classification-System)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BetsyGitije/Sentiment-Classification-System)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/WanjohiK/Sentiment-Classification-System)
+
 
 
 
