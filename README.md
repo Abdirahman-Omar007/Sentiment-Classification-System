@@ -46,6 +46,7 @@ This project utilizes:
 Prerequisites
 
 Ensure Python is installed:
+
 '''bash
 python --version
 
