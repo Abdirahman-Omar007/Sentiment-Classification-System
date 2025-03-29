@@ -124,31 +124,6 @@ Contributions are welcome!
 * Open a Pull Request
 
 
-
-## Contributors  
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/WanjohiK">
-        <img src="https://github.com/WanjohiK.png" width="50;" alt="WanjohiK"/>
-        <br /><sub><b>WanjohiK</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/BetsyGitije">
-        <img src="https://github.com/BetsyGitije.png" width="50;" alt="BetsyGitije"/>
-        <br /><sub><b>BetsyGitije</b></sub>
-      </a>
-    </td>
-    <!-- Add more contributors here -->
-  </tr>
-</table>
-
-
-
-### Contributors
-
 ## Contributors  
 
 <table>
@@ -173,6 +148,13 @@ Contributions are welcome!
     </td>
   </tr>
 </table>
+
+
+![GitHub Repo stars](https://img.shields.io/github/stars/WanjohiK/Apple-Sentiment-Analysis?style=social)
+![GitHub forks](https://img.shields.io/github/forks/WanjohiK/Apple-Sentiment-Analysis?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/WanjohiK/Apple-Sentiment-Analysis)
+![GitHub last commit](https://img.shields.io/github/last-commit/WanjohiK/Apple-Sentiment-Analysis)
+
 
 
 
