@@ -123,7 +123,7 @@ Contributions are welcome!
 
 * Open a Pull Request
 
-https://github.com/BetsyGitije/Sentiment-Classification-System/graphs/contributors
+[https://github.com/BetsyGitije/Sentiment-Classification-System/graphs/contributors](https://github.com/BetsyGitije)
 
 ### Contributors
 
