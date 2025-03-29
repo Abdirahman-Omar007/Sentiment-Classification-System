@@ -136,22 +136,10 @@ Contributions are welcome!
 </a>
 
 
-<a href="https://github.com/
-Mike101lab">
-    <img src="https://github.com/
-Mike101lab.png" width="40" height="40">
+<a href="https://github.com/Mike101lab">
+    <img src="https://github.com/Mike101lab.png" width="40" height="40">
 </a>
 
-
-📧 Email: michael.gatero@student.moringaschool.com
-
-📧 Email: Abdirahaman.sheikh@student.moringaschool.com
-
-📧 Email: betsy.gitije@student.moringaschool.com
-
-📧 Email: kelvinnyawira2017@gmail.com
-
-📧 Email: petina.leni@student.moringaschool.com
 
 
 
