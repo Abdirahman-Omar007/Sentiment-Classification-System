@@ -128,8 +128,10 @@ Contributions are welcome!
 
 ### Contributors
 
+<a href="https://github.com/BetsyGitije">
+    <img src="https://github.com/BetsyGitije.png" width="40" height="40">
+</a>
 
-[![WanjohiK](https://github.com/BetsyGitije.png?size=10)](https://github.com/BetsyGitije)
 
 📧 Email: michael.gatero@student.moringaschool.com
 
