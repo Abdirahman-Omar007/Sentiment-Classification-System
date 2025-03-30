@@ -61,7 +61,7 @@ Installation
 Clone the repository:
 
 ```bash
- git clone https://github.com/yourusername/Apple-Sentiment-Analysis.git
+ git clone https://github.com/BetsyGitije/Apple-Sentiment-Analysis.git
  ```
 Navigate to the project directory:
 
