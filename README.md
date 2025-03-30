@@ -30,7 +30,7 @@ This project utilizes:
 
 * Programming: Python
 
-* NLP: Tokenization, Lemmatization, Stopword Removal
+* NLP: Tokenization, Lemmatization, Stopwords Removal
 
 * Machine Learning: Logistic Regression, XGBoost
 
@@ -116,6 +116,8 @@ Contributions are welcome!
 * Fork the repository
 
 * Create a new branch (feature/new-feature)
+
+* git add .
 
 * Commit changes (git commit -m 'Add new feature')
 
