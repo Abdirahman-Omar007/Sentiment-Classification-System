@@ -34,7 +34,7 @@ This project utilizes:
 
 * Machine Learning: Logistic Regression, XGBoost
 
-* Deep Learning: LSTM, BERT
+* Deep Learning: LSTM, RNN
 
 * Frameworks & Libraries: Scikit-learn, TensorFlow, Transformers
 
